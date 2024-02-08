@@ -8,4 +8,4 @@ Uma CRUD simples (Create, Get, Update, Delete) usando Java 8 e suas respectivas 
 
 ### Inicie o projeto e realize os testes
 
-### Caso precise dentro do repositório há um arquivo de collections do POSTMAN com todos os requisitos
+### Caso precise dentro do repositório há um arquivo de collection do POSTMAN com todos os requests
