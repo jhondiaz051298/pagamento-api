@@ -2,7 +2,7 @@
 
 Java 8
 
-Uma CRUD simples (Create, Get, Update, Delete) usando Java 8
+Uma CRUD simples (Create, Get, Update, Delete) usando Java 8 e suas respectivas regras de negócios
 
 ## Passos para rodar o projeto
 
